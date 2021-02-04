@@ -40,5 +40,5 @@ puppy -> puppy
 MAN -> (V)4(\)
 ```
 
-*Notes:
+* Notes:
 Input from english to leetcode will only be letters e.g. [a-zA-Z] case does not matter and does not have to be retained
