@@ -1,5 +1,5 @@
 # L33Tspeak-Translator
-## --------------------
+
 ## Challenge #5
 
 L33tspeak - the act of speaking like a computer hacker (or hax0r) - was popularised in the late 90s as a mechanism of abusing ASCII art and character mappings to confuse outsiders
