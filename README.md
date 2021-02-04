@@ -2,7 +2,7 @@
 
 L33tspeak - the act of speaking like a computer hacker (or hax0r) - was popularised in the late 90s as a mechanism of abusing ASCII art and character mappings to confuse outsiders
 
-In L33Tspeak you substitute letters for their rough outlines in ASCII characters, e.g. symbols or numbers. You can have 1:1 mappings (like `E -> 3`) or 1:many mappings (like `W -> \//` 
+In L33Tspeak you substitute letters for their rough outlines in ASCII characters, e.g. symbols or numbers. You can have 1:1 mappings (`E -> 3`) or 1:many mappings (`W -> \//`) 
 
 ### So then you wind up with words like this:
 ```
@@ -28,7 +28,7 @@ V -> \/
 W -> \//
 ```
 
-Your challenge is to take an input and if it is L33Tspeak convert it to ascii, if it is ascii convert it to L33Tspeak.
+Your challenge is to take an input and if it is L33Tspeak convert it to ASCII, if it is ASCII convert it to L33Tspeak.
 
 ### A few examples:
 ```
